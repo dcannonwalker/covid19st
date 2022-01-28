@@ -1,0 +1,710 @@
+                                 _____________________________
+
+                                        SaTScan v10.0.1
+                                 _____________________________
+
+covid
+
+Program run on: Fri Jan 28 11:52:42 2022
+
+Prospective Space-Time analysis
+scanning for clusters with high rates
+using the Discrete Poisson model.
+_______________________________________________________________________________________________
+
+SUMMARY OF DATA
+
+Study period.......................: 2020/1/22 to 2020/5/20
+Number of locations................: 3142
+Population, averaged over time.....: 39388742388
+Total number of cases..............: 1549085
+Annual cases / 100000..............: 12.0
+_______________________________________________________________________________________________
+
+CLUSTERS DETECTED
+
+1.Location IDs included.: 9009, 9007, 9001, 9003, 9005, 36103, 36079, 9011, 9013, 36119, 36027,
+                          25013, 9015, 36059, 36087, 36005, 25015, 36081, 34003, 25003, 36021,
+                          44009, 36061, 36071, 44003, 36047, 34017, 34031, 36111, 44007, 34013,
+                          25011, 25027, 36085, 36039, 44005, 44001, 34039, 34027, 34037, 36083,
+                          36105, 25005, 36001, 34023, 25021, 34025, 34035, 42103, 25017, 50025,
+                          33005, 36095, 50003, 36093, 34041, 25025, 25023, 25007, 36025, 34019,
+                          34021, 33011, 42127, 34029
+  Coordinates / radius..: (41.408033 N, 72.936204 W) / 203.29 km
+  Time frame............: 2020/3/22 to 2020/5/20
+  Population............: 3905787728
+  Number of cases.......: 593619
+  Expected cases........: 76803.63
+  Annual cases / 100000.: 92.5
+  Observed / expected...: 7.73
+  Relative risk.........: 11.91
+  Log likelihood ratio..: 800828.270113
+  Monte Carlo rank......: 1/1000
+  P-value...............: < 0.00000000000000001
+  Recurrence interval...: 273785078713210 years
+
+2.Location IDs included.: 26149, 18087, 26077, 26027, 26023, 18039, 18151, 26159, 26025, 18113,
+                          18141, 18033, 26021, 26059, 26015, 18085, 26005, 18183, 39171, 18099,
+                          26045, 26075, 18003, 39039, 18091, 18049, 18149, 39125, 26067, 18069,
+                          18169, 26091, 39051, 26065, 26139, 26081, 18179, 18103, 39069, 26037,
+                          18127, 18131, 18001, 39161, 26161, 18017, 39137, 26093, 18053, 26117,
+                          39095, 18009, 26121, 26155, 18089, 26115, 18073, 18067, 39173, 18075,
+                          39107, 26057, 18181, 18015, 39003, 18159, 26123, 39063, 39011, 18035,
+                          18111, 17031, 26163, 26107, 26049, 26125, 18095, 18023, 26145, 26073,
+                          18135, 26127, 18157, 39123, 39149, 39143, 18007, 17097, 39065, 18057,
+                          17197, 17043, 39037, 17091, 26111, 39147, 55059, 39175, 18065, 18011,
+                          39091, 55101, 26087, 26099, 26133, 17075, 26085, 18171, 18177, 18059,
+                          39109, 55079, 26017, 26035, 18107, 26105, 17089, 18097, 17093, 26157,
+                          17111, 18045, 39021, 39101
+  Coordinates / radius..: (41.914418 N, 85.527980 W) / 247.00 km
+  Time frame............: 2020/3/27 to 2020/5/20
+  Population............: 3002863404
+  Number of cases.......: 174528
+  Expected cases........: 54127.77
+  Annual cases / 100000.: 38.6
+  Observed / expected...: 3.22
+  Relative risk.........: 3.51
+  Log likelihood ratio..: 88910.334427
+  Monte Carlo rank......: 1/1000
+  P-value...............: < 0.00000000000000001
+  Recurrence interval...: 273785078713210 years
+
+3.Location IDs included.: 51630, 51179, 51177, 51099, 51033, 51047, 51153, 51137, 51683, 24017,
+                          51685, 51109, 51061, 51085, 51059, 51057, 51193, 51600, 51510, 51113,
+                          51610, 51157, 51013, 51075, 51101, 24037, 51159, 11001, 24033, 51097,
+                          24009, 51079, 51760, 51087, 51065, 51107, 51145, 51540, 51187, 51139,
+                          24031, 51003, 51127, 51043, 51041, 51133, 51049, 24003, 51103, 51119,
+                          51036, 51171, 51670, 51840, 51007, 51570, 54037, 24027, 51069, 51029,
+                          51660, 51730, 51165, 51149, 51820, 51095, 24019, 51073, 24021, 24041,
+                          51830, 51125, 24510, 51053, 51135, 51790, 54003, 51115, 51181, 54031,
+                          51015, 51199, 51147, 24013, 24043, 24005, 54027, 24035, 24039, 51183,
+                          54065, 51011, 24011, 51700, 51735, 24045, 24029, 51111, 51009, 54071,
+                          51093, 51650, 54023, 24025, 51001, 51025, 51530, 51037, 42001, 54057,
+                          51131, 51595, 51175, 51163, 51680, 51081, 51678, 24001, 51091, 42055,
+                          51620, 51031, 10005, 51740, 10001, 24047, 42057, 51710, 42133, 51800,
+                          24015, 51117, 51017, 54093, 24023, 42041, 42009, 51550, 37131, 51019,
+                          51083, 54083, 10003, 51810, 37073, 37185, 51023, 54075, 37091, 42071,
+                          51580, 51005, 37083, 42111, 54077, 37181, 34033, 42099, 51143, 54001,
+                          34011, 42029, 42061, 42043, 37077, 51770, 42075, 54097, 37029, 42067,
+                          37145, 54091, 37139, 34009, 37015, 51775, 51161, 42013, 37041, 37053,
+                          37143, 42045, 51590, 51045, 51067, 54101, 37069, 34015, 42087, 42051,
+                          54025, 37127, 37065, 42021, 54061, 37033, 42011, 54041, 54033, 54049,
+                          37117, 34007, 51690, 51089, 42109, 42101, 34001, 37063, 54063, 42091,
+                          42129, 51121, 54007, 37187, 37135, 54067, 42107, 37195, 42097, 37157,
+                          42059, 42027, 37177, 51063, 42063, 37183, 42119, 54017, 51750, 34005,
+                          37147, 54021, 37001, 51071, 54089, 42077, 51141, 42017
+  Coordinates / radius..: (38.297786 N, 77.492245 W) / 305.50 km
+  Time frame............: 2020/4/3 to 2020/5/20
+  Population............: 3563502576
+  Number of cases.......: 156811
+  Expected cases........: 56058.34
+  Annual cases / 100000.: 33.5
+  Observed / expected...: 2.80
+  Relative risk.........: 3.00
+  Log likelihood ratio..: 64029.381435
+  Monte Carlo rank......: 1/1000
+  P-value...............: < 0.00000000000000001
+  Recurrence interval...: 273785078713210 years
+
+4.Location IDs included.: 31103, 31017, 46123, 46053, 31149, 31015, 46121, 31089, 46023, 46015,
+                          31115, 31009, 46085, 46095, 31031, 46043, 31071, 31171, 46003, 46017,
+                          46075, 31183, 46009, 31107, 46035, 31003, 31175, 46073, 31091, 31113,
+                          46007, 31041, 46067, 46065, 31077, 46061, 46071, 46111, 31117, 31139,
+                          46069, 31011, 46135, 46117, 46059, 31163, 31075, 31027, 31119, 46005,
+                          46119, 31093, 46087, 46097, 46125, 46055, 31125, 31005, 31111, 46027,
+                          31047, 31161, 31179, 31019, 31141, 31167, 31121, 46102, 31051, 46077,
+                          46107, 46079, 31079, 31101, 46083, 46049, 46127, 46099, 46115, 31069,
+                          31143, 31037, 31039, 31043, 31073, 31081, 31137, 31063, 46041, 31099,
+                          46025, 31173, 46101, 31135, 31045, 46103, 31001, 46137, 31023, 31185,
+                          46057, 46129, 31085, 46045, 19149, 31013, 46011, 19167, 19119, 31053,
+                          31049, 27133, 31035, 31123, 31021, 31065, 31083, 19193, 46093, 27117,
+                          31061, 31145, 31159, 46029, 31029, 8115, 46047, 31155, 31059, 46033,
+                          31181, 46013, 31087, 46039, 19133, 46021, 46089, 46037, 31177, 27081,
+                          31033, 31129, 27105, 19141, 31165, 19035, 8095, 46031, 19143, 31151,
+                          31109, 31057, 31055, 27101, 20137, 20147, 46051, 19085, 31157, 19093,
+                          31169, 20039, 20183, 27083, 31153, 38051, 31007, 46091, 20153, 46105,
+                          20089, 46081, 19047, 31025, 27073, 31095, 8075, 27173, 38021, 19041,
+                          19021, 19059, 38085, 46109, 46019, 27063, 31105, 20157, 38029, 19161,
+                          20023, 31067, 19155, 19165, 27011, 27033, 31131, 56027, 56015, 8125,
+                          20065, 20163, 38081, 19129, 27127, 20179, 31097, 38047, 20141, 56045,
+                          20123, 20201, 20193, 38045, 27023, 19027, 19147, 19151, 19063, 27155,
+                          19071, 20029, 38037, 19009, 27151, 19025, 31133, 38001, 27149, 31127,
+                          46063, 20181, 27091, 19137, 27015, 27165, 38073, 19029, 56011, 27129,
+                          8121, 20117, 38077, 56031, 20195, 20051, 38059, 20105, 20063, 19073,
+                          56021, 20027, 19145, 29005, 8087, 20167, 19077, 19109, 19091, 27051,
+                          38041, 20143, 31147, 27067, 27121, 19187, 38043, 20109, 38015, 38093,
+                          20131, 19003, 27167, 8063, 19001, 8123, 38003, 38011, 27103, 20161,
+                          56009, 20199, 27013, 27043, 19173, 27143, 27041, 20149, 20053, 19015,
+                          30011, 27093, 20013, 19049, 29087, 20165, 27085, 19081, 20169, 19197,
+                          38065, 19189, 29147, 20135, 38017, 20101, 56005, 38089, 19079, 38087,
+                          20041, 20009, 19175, 20061, 20171, 19121, 27145, 27111, 20085, 20203,
+                          27079, 8001, 27161, 8017, 19159, 56001, 38031, 27027, 20043, 29227,
+                          20071, 20159, 38057, 29003, 27019, 19169, 27153, 19153, 38039, 27047,
+                          38103, 20005, 20145, 38083, 19033, 27171, 19069, 19195, 20197, 8005,
+                          20113, 19039, 29075, 38091, 20127, 19083, 20083, 27139, 30025, 19181,
+                          8069, 8073, 27147, 38055, 20177, 38027, 27131, 38007, 20087, 29021,
+                          20055, 8039, 20185, 19053, 38097, 38025, 20115, 30075, 8014, 27005,
+                          29081, 27053, 27009, 27141, 8031, 29063, 27097, 20047, 38033, 8061,
+                          27107, 27159, 19127, 20093, 8013, 19099, 19067, 19131, 19023, 20155,
+                          20103, 19117, 27039, 29165, 19075, 56019, 27037, 27099, 20075, 20079,
+                          19125, 20017, 38063, 29049, 20069, 20111, 56025, 20057, 30109, 29061,
+                          20139, 38005, 29129, 20045, 19185, 27123, 27003
+  Coordinates / radius..: (42.879907 N, 99.713437 W) / 580.61 km
+  Time frame............: 2020/4/23 to 2020/5/20
+  Population............: 1710965752
+  Number of cases.......: 49171
+  Expected cases........: 15700.78
+  Annual cases / 100000.: 37.5
+  Observed / expected...: 3.13
+  Relative risk.........: 3.20
+  Log likelihood ratio..: 23031.055442
+  Monte Carlo rank......: 1/1000
+  P-value...............: < 0.00000000000000001
+  Recurrence interval...: 273785078713210 years
+
+5.Location IDs included.: 28021, 28063, 22107, 28149, 28029, 22065, 28049, 28037, 28085, 28001,
+                          22041, 28055, 28077, 28005, 22029, 22035, 28127, 22083, 22025, 28121,
+                          28157, 28113, 28125, 28163, 22123, 28089, 28065, 22021, 28147, 22059,
+                          22037, 22067, 22091, 22073, 22125, 28091, 28129, 28031, 28053, 28123,
+                          22009, 28151, 5017, 22117, 28051, 22077, 28079, 22105, 28073, 5003,
+                          22049, 22033, 22043, 22127, 22111, 28067, 28061, 22063, 22121, 28101,
+                          28007, 22079, 28035, 22061, 28109, 28133, 22097, 28083, 28015, 28099,
+                          22047, 5043, 22103, 22005, 22039, 28111, 28011, 5011, 22013, 5139,
+                          28097, 22069, 22095, 28023, 5041, 28153, 28131, 28159, 22099, 22093,
+                          28075, 22027, 28019, 28045, 28043, 22055, 22081, 28069, 28041, 5013,
+                          22007, 28135, 22071, 22003, 5079, 28047, 22001, 22089, 22115, 28155,
+                          22119, 5025, 22045, 28039, 1023, 28105, 28027, 28103, 22085, 28161,
+                          5027, 5103, 22101, 22051, 28119, 5001, 22053, 1129, 28013, 1119,
+                          22015, 22031, 28059, 22087, 22113, 5069, 28025, 5107, 22011, 5039,
+                          22057, 28107, 28017, 28087, 48403, 22017, 1097, 22109, 5073, 1025,
+                          5099, 1063
+  Coordinates / radius..: (31.970617 N, 90.907022 W) / 293.68 km
+  Time frame............: 2020/3/31 to 2020/5/20
+  Population............: 907792200
+  Number of cases.......: 45024
+  Expected cases........: 15173.25
+  Annual cases / 100000.: 35.5
+  Observed / expected...: 2.97
+  Relative risk.........: 3.03
+  Log likelihood ratio..: 19412.494787
+  Monte Carlo rank......: 1/1000
+  P-value...............: < 0.00000000000000001
+  Recurrence interval...: 273785078713210 years
+
+6.Location IDs included.: 6037
+  Coordinates / radius..: (34.308284 N, 118.228241 W) / 0 km
+  Time frame............: 2020/4/20 to 2020/5/20
+  Population............: 1204693376
+  Number of cases.......: 28554
+  Expected cases........: 12239.40
+  Annual cases / 100000.: 27.9
+  Observed / expected...: 2.33
+  Relative risk.........: 2.36
+  Log likelihood ratio..: 7961.447417
+  Monte Carlo rank......: 1/1000
+  P-value...............: < 0.00000000000000001
+  Recurrence interval...: 273785078713210 years
+
+7.Location IDs included.: 4001, 4017, 35031, 35006, 35045
+  Coordinates / radius..: (35.394650 N, 109.489238 W) / 162.39 km
+  Time frame............: 2020/4/14 to 2020/5/20
+  Population............: 48577320
+  Number of cases.......: 5292
+  Expected cases........: 589.06
+  Annual cases / 100000.: 107.5
+  Observed / expected...: 8.98
+  Relative risk.........: 9.01
+  Log likelihood ratio..: 6922.415621
+  Monte Carlo rank......: 1/1000
+  P-value...............: < 0.00000000000000001
+  Recurrence interval...: 273785078713210 years
+
+8.Location IDs included.: 12086
+  Coordinates / radius..: (25.611236 N, 80.551706 W) / 0 km
+  Time frame............: 2020/3/26 to 2020/5/20
+  Population............: 326032832
+  Number of cases.......: 15634
+  Expected cases........: 5983.72
+  Annual cases / 100000.: 31.3
+  Observed / expected...: 2.61
+  Relative risk.........: 2.63
+  Log likelihood ratio..: 5394.939796
+  Monte Carlo rank......: 1/1000
+  P-value...............: < 0.00000000000000001
+  Recurrence interval...: 273785078713210 years
+
+9.Location IDs included.: 47169
+  Coordinates / radius..: (36.390262 N, 86.160880 W) / 0 km
+  Time frame............: 2020/4/29 to 2020/5/20
+  Population............: 1354080
+  Number of cases.......: 1335
+  Expected cases........: 9.76
+  Annual cases / 100000.: 1636.8
+  Observed / expected...: 136.74
+  Relative risk.........: 136.86
+  Log likelihood ratio..: 5240.958868
+  Monte Carlo rank......: 1/1000
+  P-value...............: < 0.00000000000000001
+  Recurrence interval...: 273785078713210 years
+
+10.Location IDs included.: 13273, 13177, 13243, 13307, 13037, 13095, 13261, 13007, 13259,
+                           13061, 13239, 13249, 13321, 13197, 13205, 13081, 13099, 13053,
+                           13201, 13093, 13193, 13287
+   Coordinates / radius..: (31.775275 N, 84.440697 W) / 77.77 km
+   Time frame............: 2020/3/24 to 2020/5/20
+   Population............: 39072480
+   Number of cases.......: 4576
+   Expected cases........: 742.71
+   Annual cases / 100000.: 73.8
+   Observed / expected...: 6.16
+   Relative risk.........: 6.18
+   Log likelihood ratio..: 4491.870837
+   Monte Carlo rank......: 1/1000
+   P-value...............: < 0.00000000000000001
+   Recurrence interval...: 273785078713210 years
+
+11.Location IDs included.: 48179, 48129, 48393, 48065, 48483, 48211, 48233, 48087, 48011,
+                           48191, 48357, 48375, 48045, 40009, 40129, 48295, 48195, 48341,
+                           48381, 48075, 40057, 40055, 48437, 40045, 48421, 48345, 40007,
+                           48153, 48101, 40065, 48197, 40139, 48359, 48069, 40149, 40039,
+                           48205, 48117, 48189, 40075, 40043, 40153, 48155, 40059, 48111,
+                           48125, 20175
+   Coordinates / radius..: (35.400819 N, 100.812922 W) / 199.21 km
+   Time frame............: 2020/4/20 to 2020/5/20
+   Population............: 79168320
+   Number of cases.......: 4599
+   Expected cases........: 804.33
+   Annual cases / 100000.: 68.4
+   Observed / expected...: 5.72
+   Relative risk.........: 5.73
+   Log likelihood ratio..: 4228.722746
+   Monte Carlo rank......: 1/1000
+   P-value...............: < 0.00000000000000001
+   Recurrence interval...: 273785078713210 years
+
+12.Location IDs included.: 48201
+   Coordinates / radius..: (29.858649 N, 95.393395 W) / 0 km
+   Time frame............: 2020/4/27 to 2020/5/20
+   Population............: 565598464
+   Number of cases.......: 9742
+   Expected cases........: 4448.78
+   Annual cases / 100000.: 26.2
+   Observed / expected...: 2.19
+   Relative risk.........: 2.20
+   Log likelihood ratio..: 2351.795411
+   Monte Carlo rank......: 1/1000
+   P-value...............: < 0.00000000000000001
+   Recurrence interval...: 273785078713210 years
+
+13.Location IDs included.: 13311, 13137, 13187, 13281, 13291, 13139
+   Coordinates / radius..: (34.646243 N, 83.749055 W) / 36.59 km
+   Time frame............: 2020/4/14 to 2020/5/20
+   Population............: 42086964
+   Number of cases.......: 2612
+   Expected cases........: 510.35
+   Annual cases / 100000.: 61.3
+   Observed / expected...: 5.12
+   Relative risk.........: 5.12
+   Log likelihood ratio..: 2164.569393
+   Monte Carlo rank......: 1/1000
+   P-value...............: < 0.00000000000000001
+   Recurrence interval...: 273785078713210 years
+
+14.Location IDs included.: 53077
+   Coordinates / radius..: (46.457385 N, 120.738013 W) / 0 km
+   Time frame............: 2020/4/2 to 2020/5/20
+   Population............: 30104708
+   Number of cases.......: 2364
+   Expected cases........: 483.45
+   Annual cases / 100000.: 58.5
+   Observed / expected...: 4.89
+   Relative risk.........: 4.90
+   Log likelihood ratio..: 1872.640833
+   Monte Carlo rank......: 1/1000
+   P-value...............: < 0.00000000000000001
+   Recurrence interval...: 273785078713210 years
+
+15.Location IDs included.: 47007
+   Coordinates / radius..: (35.599430 N, 85.206120 W) / 0 km
+   Time frame............: 2020/4/23 to 2020/5/20
+   Population............: 1807680
+   Number of cases.......: 597
+   Expected cases........: 16.59
+   Annual cases / 100000.: 430.8
+   Observed / expected...: 35.99
+   Relative risk.........: 36.00
+   Log likelihood ratio..: 1558.879629
+   Monte Carlo rank......: 1/1000
+   P-value...............: < 0.00000000000000001
+   Recurrence interval...: 273785078713210 years
+
+16.Location IDs included.: 16013
+   Coordinates / radius..: (43.408581 N, 113.975266 W) / 0 km
+   Time frame............: 2020/3/23 to 2020/5/20
+   Population............: 2762520
+   Number of cases.......: 489
+   Expected cases........: 53.42
+   Annual cases / 100000.: 109.6
+   Observed / expected...: 9.15
+   Relative risk.........: 9.16
+   Log likelihood ratio..: 647.238565
+   Monte Carlo rank......: 1/1000
+   P-value...............: < 0.00000000000000001
+   Recurrence interval...: 273785078713210 years
+
+17.Location IDs included.: 45069, 37165, 45033, 45031, 45025, 37153, 37155, 37007, 37093,
+                           45041, 45067, 45061
+   Coordinates / radius..: (34.599056 N, 79.675612 W) / 71.97 km
+   Time frame............: 2020/4/22 to 2020/5/20
+   Population............: 77352000
+   Number of cases.......: 1901
+   Expected cases........: 735.18
+   Annual cases / 100000.: 31.0
+   Observed / expected...: 2.59
+   Relative risk.........: 2.59
+   Log likelihood ratio..: 640.613027
+   Monte Carlo rank......: 1/1000
+   P-value...............: < 0.00000000000000001
+   Recurrence interval...: 273785078713210 years
+
+18.Location IDs included.: 37193
+   Coordinates / radius..: (36.208414 N, 81.162329 W) / 0 km
+   Time frame............: 2020/4/29 to 2020/5/20
+   Population............: 8209440
+   Number of cases.......: 430
+   Expected cases........: 59.19
+   Annual cases / 100000.: 87.0
+   Observed / expected...: 7.26
+   Relative risk.........: 7.27
+   Log likelihood ratio..: 481.930069
+   Monte Carlo rank......: 1/1000
+   P-value...............: < 0.00000000000000001
+   Recurrence interval...: 273785078713210 years
+
+19.Location IDs included.: 13101, 12047, 13065
+   Coordinates / radius..: (30.711011 N, 82.896873 W) / 29.09 km
+   Time frame............: 2020/5/10 to 2020/5/20
+   Population............: 3006240
+   Number of cases.......: 221
+   Expected cases........: 10.84
+   Annual cases / 100000.: 244.1
+   Observed / expected...: 20.39
+   Relative risk.........: 20.39
+   Log likelihood ratio..: 456.195577
+   Monte Carlo rank......: 1/1000
+   P-value...............: < 0.00000000000000001
+   Recurrence interval...: 273785078713210 years
+
+20.Location IDs included.: 48113
+   Coordinates / radius..: (32.766706 N, 96.777961 W) / 0 km
+   Time frame............: 2020/4/29 to 2020/5/20
+   Population............: 316262272
+   Number of cases.......: 3692
+   Expected cases........: 2280.30
+   Annual cases / 100000.: 19.4
+   Observed / expected...: 1.62
+   Relative risk.........: 1.62
+   Log likelihood ratio..: 367.976431
+   Monte Carlo rank......: 1/1000
+   P-value...............: < 0.00000000000000001
+   Recurrence interval...: 273785078713210 years
+
+21.Location IDs included.: 53061, 53057, 53029, 53033
+   Coordinates / radius..: (48.046160 N, 121.717070 W) / 62.27 km
+   Time frame............: 2020/3/25 to 2020/5/20
+   Population............: 394705472
+   Number of cases.......: 9188
+   Expected cases........: 7373.44
+   Annual cases / 100000.: 14.9
+   Observed / expected...: 1.25
+   Relative risk.........: 1.25
+   Log likelihood ratio..: 207.997351
+   Monte Carlo rank......: 1/1000
+   P-value...............: < 0.00000000000000001
+   Recurrence interval...: 273785078713210 years
+
+22.Location IDs included.: 32033, 32011, 49027, 49023, 49045, 49001, 32015, 32007, 32017,
+                           32023, 49021, 49053, 49031, 49003, 49041, 49039, 49049, 49035
+   Coordinates / radius..: (39.441570 N, 114.899966 W) / 287.55 km
+   Time frame............: 2020/4/15 to 2020/5/20
+   Population............: 283794136
+   Number of cases.......: 4350
+   Expected cases........: 3348.33
+   Annual cases / 100000.: 15.6
+   Observed / expected...: 1.30
+   Relative risk.........: 1.30
+   Log likelihood ratio..: 137.112127
+   Monte Carlo rank......: 1/1000
+   P-value...............: < 0.00000000000000001
+   Recurrence interval...: 273785078713210 years
+
+23.Location IDs included.: 32031
+   Coordinates / radius..: (40.665623 N, 119.663159 W) / 0 km
+   Time frame............: 2020/5/20 to 2020/5/20
+   Population............: 56582364
+   Number of cases.......: 100
+   Expected cases........: 18.54
+   Annual cases / 100000.: 64.6
+   Observed / expected...: 5.39
+   Relative risk.........: 5.39
+   Log likelihood ratio..: 87.048615
+   Monte Carlo rank......: 1/1000
+   P-value...............: < 0.00000000000000001
+   Recurrence interval...: 273785078713210 years
+
+24.Location IDs included.: 48253
+   Coordinates / radius..: (32.739971 N, 99.878616 W) / 0 km
+   Time frame............: 2020/4/27 to 2020/5/20
+   Population............: 2409960
+   Number of cases.......: 90
+   Expected cases........: 18.96
+   Annual cases / 100000.: 56.8
+   Observed / expected...: 4.75
+   Relative risk.........: 4.75
+   Log likelihood ratio..: 69.150265
+   Monte Carlo rank......: 1/1000
+   P-value...............: < 0.00000000000000001
+   Recurrence interval...: 273785078713210 years
+
+25.Location IDs included.: 48181
+   Coordinates / radius..: (33.627450 N, 96.677535 W) / 0 km
+   Time frame............: 2020/5/18 to 2020/5/20
+   Population............: 16345440
+   Number of cases.......: 64
+   Expected cases........: 16.07
+   Annual cases / 100000.: 47.7
+   Observed / expected...: 3.98
+   Relative risk.........: 3.98
+   Log likelihood ratio..: 40.511556
+   Monte Carlo rank......: 1/1000
+   P-value...............: 0.000000000041
+   Recurrence interval...: 67266861 years
+
+26.Location IDs included.: 16031, 16067, 16053, 16077, 16071, 16083
+   Coordinates / radius..: (42.283479 N, 113.601241 W) / 88.05 km
+   Time frame............: 2020/5/1 to 2020/5/20
+   Population............: 20228520
+   Number of cases.......: 247
+   Expected cases........: 132.59
+   Annual cases / 100000.: 22.3
+   Observed / expected...: 1.86
+   Relative risk.........: 1.86
+   Log likelihood ratio..: 39.258139
+   Monte Carlo rank......: 1/1000
+   P-value...............: 0.00000000011
+   Recurrence interval...: 24735539 years
+
+27.Location IDs included.: 16087
+   Coordinates / radius..: (44.452755 N, 116.784769 W) / 0 km
+   Time frame............: 2020/5/12 to 2020/5/20
+   Population............: 1223280
+   Number of cases.......: 30
+   Expected cases........: 3.61
+   Annual cases / 100000.: 99.5
+   Observed / expected...: 8.31
+   Relative risk.........: 8.31
+   Log likelihood ratio..: 37.148095
+   Monte Carlo rank......: 1/1000
+   P-value...............: 0.00000000060
+   Recurrence interval...: 4590957 years
+
+28.Location IDs included.: 48319
+   Coordinates / radius..: (30.717804 N, 99.226294 W) / 0 km
+   Time frame............: 2020/4/25 to 2020/5/20
+   Population............: 512880
+   Number of cases.......: 31
+   Expected cases........: 4.37
+   Annual cases / 100000.: 84.9
+   Observed / expected...: 7.09
+   Relative risk.........: 7.09
+   Log likelihood ratio..: 34.104366
+   Monte Carlo rank......: 1/1000
+   P-value...............: 0.0000000068
+   Recurrence interval...: 404423 years
+
+29.Location IDs included.: 40033, 40031
+   Coordinates / radius..: (34.288456 N, 98.370536 W) / 42.29 km
+   Time frame............: 2020/5/12 to 2020/5/20
+   Population............: 15169800
+   Number of cases.......: 105
+   Expected cases........: 44.74
+   Annual cases / 100000.: 28.1
+   Observed / expected...: 2.35
+   Relative risk.........: 2.35
+   Log likelihood ratio..: 29.309176
+   Monte Carlo rank......: 1/1000
+   P-value...............: 0.00000031
+   Recurrence interval...: 8803 years
+
+30.Location IDs included.: 41047
+   Coordinates / radius..: (44.902879 N, 122.581512 W) / 0 km
+   Time frame............: 2020/4/29 to 2020/5/20
+   Population............: 41738112
+   Number of cases.......: 423
+   Expected cases........: 300.94
+   Annual cases / 100000.: 16.8
+   Observed / expected...: 1.41
+   Relative risk.........: 1.41
+   Log likelihood ratio..: 21.960643
+   Monte Carlo rank......: 1/1000
+   P-value...............: 0.00011
+   Recurrence interval...: 25 years
+
+31.Location IDs included.: 40051, 40087, 40015
+   Coordinates / radius..: (35.016771 N, 97.883398 W) / 48.01 km
+   Time frame............: 2020/4/15 to 2020/5/20
+   Population............: 15008400
+   Number of cases.......: 269
+   Expected cases........: 177.08
+   Annual cases / 100000.: 18.2
+   Observed / expected...: 1.52
+   Relative risk.........: 1.52
+   Log likelihood ratio..: 20.556527
+   Monte Carlo rank......: 1/1000
+   P-value...............: 0.00034
+   Recurrence interval...: 8.1 years
+
+32.Location IDs included.: 5113, 5127, 5061, 5097, 5133
+   Coordinates / radius..: (34.482549 N, 94.227288 W) / 53.89 km
+   Time frame............: 2020/5/19 to 2020/5/20
+   Population............: 8332800
+   Number of cases.......: 18
+   Expected cases........: 5.46
+   Annual cases / 100000.: 39.4
+   Observed / expected...: 3.30
+   Relative risk.........: 3.30
+   Log likelihood ratio..: 8.928328
+   Monte Carlo rank......: 976/1000
+   P-value...............: 0.976
+   Recurrence interval...: 1 day
+
+A cluster is statistically significant when its log likelihood ratio is greater than the
+critical value, which is, for significance level:
+
+Gumbel Critical Values:
+... 0.00001: 24.960993
+.... 0.0001: 22.076071
+
+Standard Monte Carlo Critical Values:
+..... 0.001: 19.619805
+...... 0.01: 16.755281
+...... 0.05: 14.273752
+_______________________________________________________________________________________________
+
+PARAMETER SETTINGS
+
+Input
+-----
+  Case File        : /Users/davidwalker/OneDrive - CDC/spatial_code/data/satscan/covid19/covid.cas
+  Population File  : /Users/davidwalker/OneDrive - CDC/spatial_code/data/satscan/covid19/covid.pop
+  Time Precision   : Day
+  Start Time       : 2020/1/22
+  End Time         : 2020/5/20
+  Coordinates File : /Users/davidwalker/OneDrive - CDC/spatial_code/data/satscan/covid19/covid.geo
+  Coordinates      : Latitude/Longitude
+
+Analysis
+--------
+  Type of Analysis        : Prospective Space-Time
+  Probability Model       : Discrete Poisson
+  Scan for Areas with     : High Rates
+  Time Aggregation Units  : Day
+  Time Aggregation Length : 1
+
+Output
+------
+  Main Results File       : /Users/davidwalker/OneDrive - CDC/spatial_code/data/satscan/covid19/covid.txt
+  Cluster File            : /Users/davidwalker/OneDrive - CDC/spatial_code/data/satscan/covid19/covid.col.txt
+  Shapefile (Cluster)     : /Users/davidwalker/OneDrive - CDC/spatial_code/data/satscan/covid19/covid.col.shp
+  Cluster File            : /Users/davidwalker/OneDrive - CDC/spatial_code/data/satscan/covid19/covid.col.dbf
+  Stratified Cluster File : /Users/davidwalker/OneDrive - CDC/spatial_code/data/satscan/covid19/covid.sci.txt
+  Location File           : /Users/davidwalker/OneDrive - CDC/spatial_code/data/satscan/covid19/covid.gis.txt
+  Location File           : /Users/davidwalker/OneDrive - CDC/spatial_code/data/satscan/covid19/covid.gis.dbf
+  Shapefile (Locations)   : /Users/davidwalker/OneDrive - CDC/spatial_code/data/satscan/covid19/covid.gis.shp
+  Risk Estimates File     : /Users/davidwalker/OneDrive - CDC/spatial_code/data/satscan/covid19/covid.rr.txt
+  Simulated LLRs File     : /Users/davidwalker/OneDrive - CDC/spatial_code/data/satscan/covid19/covid.llr.txt
+
+Data Checking
+-------------
+  Temporal Data Check     : Check to ensure that all cases and controls are within the specified temporal study period.
+  Geographical Data Check : Check to ensure that all observations (cases, controls and populations) are within the specified geographical area.
+
+Spatial Neighbors
+-----------------
+  Use Non-Euclidean Neighbors file : No
+  Use Meta Locations File          : No
+  Multiple Coordinates Type        : Allow only one set of coordinates per location ID.
+
+Locations Network
+-----------------
+  Use Locations Network File : No
+  Locations Network File     : 
+  Locations Network Purpose  : Network Definition
+
+Spatial Window
+--------------
+  Maximum Spatial Cluster Size     : 50 percent of population at risk
+  Include Purely Temporal Clusters : No
+  Window Shape                     : Circular
+
+Temporal Window
+---------------
+  Minimum Temporal Cluster Size   : 1 Day
+  Maximum Temporal Cluster Size   : 50 percent of study period
+  Include Purely Spatial Clusters : No
+
+Cluster Restrictions
+--------------------
+  Minimum Cases in Cluster for High Rates : 2
+  Restrict High Rate Clusters             : No
+
+Space And Time Adjustments
+--------------------------
+  Temporal Adjustment                     : None
+  Adjust for Weekly Trends, Nonparametric : No
+  Spatial Adjustment                      : None
+  Adjust for known relative risks         : No
+
+Inference
+---------
+  P-Value Reporting                  : Default Combination
+  Number of Replications             : 999
+  Adjusting for More Likely Clusters : No
+
+Cluster Drilldown
+-----------------
+  Standard Drilldown on Detected Clusters  : No
+  Bernoulli Drilldown on Detected Clusters : No
+
+Miscellaneous Analysis
+----------------------
+  Prospective Analysis Frequency : Same As Time Aggregation
+
+Spatial Output
+--------------
+  Report Hierarchical Clusters              : Yes
+  Criteria for Reporting Secondary Clusters : No Geographical Overlap
+  Restrict Reporting to Smaller Clusters    : Yes
+  Reported Clusters                         : Only clusters smaller than 10 percent of population at risk reported.
+
+Temporal Graphs
+---------------
+  Produce Temporal Graphs : No
+
+Other Output
+------------
+  Report Critical Values     : Yes
+  Report Monte Carlo Rank    : Yes
+  Print ASCII Column Headers : Yes
+  User Defined Title         : covid
+
+Run Options
+-----------
+  Processor Usage   : All Available Processors
+  Suppress Warnings : No
+  Logging Analysis  : No
+_______________________________________________________________________________________________
+
+Program completed  : Fri Jan 28 12:17:54 2022
+Total Running Time : 25 minutes 12 seconds
+Processor Usage    : 12 processors
