@@ -7,10 +7,9 @@ sim_county <- function(es1, es2) {
     es.sum = es1 + es2
     
     # coocurrence 
-    cooc = (es1 * es2) != 0
     # union of event sequences
     union = (es1 + es2) != 0
-    es1.rel = es1[cooc] / es.sum[cooc]
-    es2.rel = es2[cooc] / es.sum[cooc]
+    es1.rel = es1[union] / es.sum[union]
+    es2.rel = es2[union] / es.sum[union]
     sum(1 - abs(es1.rel - es2.rel)) / sum(union)
 }
